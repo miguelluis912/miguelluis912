@@ -1,4 +1,4 @@
-### Hola que tal 👋, Luis Miguel
+### Hola que tal 👋, Soy Luis Miguel
 
 <!--
 **luismiguel912/luismiguel912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +27,7 @@ Dentro del mundo del desarrollo y las tecnologias de desarrollo, He trabajado y 
   - JavaScript
   - Html
   - Mysql
+  - oracle 11g
   
 Mis redes sociales.
   - <a href="https://www.linkedin.com/in/luis-miguel-mora-rocha-266006b2/" rel="nofollow">Linkedin</a>
