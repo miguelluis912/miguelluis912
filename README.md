@@ -3,6 +3,10 @@
 <!--
 **luismiguel912/luismiguel912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Ingeniero de Software, Dispuesto a aprender nuevas cosas investigar, asesorar y diseñar, y capacidades por la programación, redes, diseño y a todo lo referente a la tecnología y su aplicación.
+ll
+ll
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
