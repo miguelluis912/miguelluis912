@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 Ingeniero de Software, Dispuesto a aprender nuevas cosas investigar, asesorar y diseñar, y capacidades por la programación, redes, diseño y a todo lo referente a la tecnología y su aplicación.
-Actualmente estoy trabajando en un equipo como desarrollador de Software.
-Dentro del mundo del desarrollo y las tecnologias de desarrollo, He trabajado y Estoy en constante aprendizaje:
+Actualmente estoy trabajando en un equipo como desarrollador de Software en el ISSSTE.
+Dentro del mundo del desarrollo y las tecnologias, He trabajado y Estoy en constante aprendizaje en:
   - Java
   - Hibernate
   - Prime Faces
