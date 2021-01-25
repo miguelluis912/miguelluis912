@@ -28,3 +28,6 @@ Dentro del mundo del desarrollo y las tecnologias de desarrollo, He trabajado y 
   - Html
   - Mysql
   
+Mis redes sociales.
+  - <a href="https://www.linkedin.com/in/luis-miguel-mora-rocha-266006b2/" rel="nofollow">Linkedin</a>
+  
