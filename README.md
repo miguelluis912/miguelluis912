@@ -26,6 +26,7 @@ Dentro del mundo del desarrollo y las tecnologias, He trabajado y Estoy en const
   - Laravel
   - JavaScript
   - Html
+  - CSS
   - Mysql
   - oracle 11g
   
