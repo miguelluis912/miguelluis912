@@ -17,18 +17,19 @@ Here are some ideas to get you started:
 Ingeniero de Software, Dispuesto a aprender nuevas cosas investigar, asesorar y diseñar, y capacidades por la programación, redes, diseño y a todo lo referente a la tecnología y su aplicación.
 Actualmente estoy trabajando en un equipo como desarrollador de Software en el ISSSTE.
 Dentro del mundo del desarrollo y las tecnologias, He trabajado y Estoy en constante aprendizaje en:
-  - Java
-  - Hibernate
-  - Prime Faces
-  - Spring Boot
-  - Angular
-  - PHP
-  - Laravel
+  - Laravel FramWork 7,8,9,10
+  - PHP ,7,8
+  - Net Core 6 Entity FrameWork
   - JavaScript
-  - Html
-  - CSS
+  - Vue
+  - Html y Css
   - Mysql
-  - oracle 11g
+  - PostgreSQL
+  - SQL Server
+  - Oracle 11g
+  - Spring Boot
+  - Json Web Tockens
+  - IC/DC
   
 Mis redes sociales.
   - <a href="https://www.linkedin.com/in/luis-miguel-mora-rocha-266006b2/" rel="nofollow">Linkedin</a>
